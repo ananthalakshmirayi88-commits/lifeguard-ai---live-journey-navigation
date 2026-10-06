@@ -1,0 +1,6 @@
+{
+  "name": "LifeGuard AI - Live Journey Navigation & Drowsiness Guard",
+  "description": "Safe journey navigation with real-time GPS tracking, AI driver drowsiness detection with audible alerts, emergency SOS, and live monitoring.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
